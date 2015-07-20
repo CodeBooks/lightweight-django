@@ -3,7 +3,7 @@
 
 ![Capa em inglês](https://raw.githubusercontent.com/flaviomicheletti/lightweight-django/master/capa-en-us.jpg)
 
-'[Capa em português](https://raw.githubusercontent.com/flaviomicheletti/lightweight-django/master/capa-pt-br.gif)
+![Capa em português](https://raw.githubusercontent.com/flaviomicheletti/lightweight-django/master/capa-pt-br.gif)
 
 O repositório original você encontra em https://github.com/lightweightdjango.
 
